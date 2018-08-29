@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+This is to get me learning about github
 
-This is a change that I made a while ago. I need to update the masterfile right away.
+These are the changes I have made so far.
